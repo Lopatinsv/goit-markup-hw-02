@@ -78,7 +78,7 @@ body {
 }
 
 .hero-btn {
-  font-family: "Roboto";
+  font-family: inherit;
   font-weight: 700;
   font-size: 16px;
   line-height: calc(30 / 16);
@@ -214,7 +214,7 @@ body {
 .filter-item {
 }
 .filter-btn {
-  font-family: "Roboto";
+  font-family: inherit;
   background: #f5f4fa;
   border-radius: 4px;
   border-style: none;
